@@ -1,0 +1,13 @@
+alpaca-py>=0.8.0
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+python-dotenv>=0.19.0
+tensorflow>=2.10.0
+matplotlib>=3.5.0
+gym>=0.21.0
+ta-lib>=0.4.24
+h5py>=3.7.0
+tables>=3.7.0
+requests>=2.28.0
+jupyter>=1.0.0

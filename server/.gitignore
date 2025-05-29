@@ -1,0 +1,4 @@
+node_modules
+.env
+.okta.env
+package-lock.json

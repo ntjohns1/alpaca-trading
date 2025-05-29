@@ -1,0 +1,14 @@
+node_modules
+.env
+*.h5
+*.zip
+*.csv
+data/
+models/
+results/
+notebooks/
+server/node_modules
+server/.env
+server/.okta.env
+!src/data
+.DS_Store
