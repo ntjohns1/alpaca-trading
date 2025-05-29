@@ -19,7 +19,7 @@ from pathlib import Path
 sys.path.append(str(Path(__file__).parent.parent.parent))
 
 # Import the trading environment components
-from notebooks.trading_env import DataSource, TradingSimulator, TradingEnvironment
+from trading_env import DataSource, TradingSimulator, TradingEnvironment
 
 logging.basicConfig()
 log = logging.getLogger(__name__)
