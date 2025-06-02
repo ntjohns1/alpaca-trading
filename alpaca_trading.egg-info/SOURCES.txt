@@ -1,0 +1,6 @@
+README.md
+setup.py
+alpaca_trading.egg-info/PKG-INFO
+alpaca_trading.egg-info/SOURCES.txt
+alpaca_trading.egg-info/dependency_links.txt
+alpaca_trading.egg-info/top_level.txt
