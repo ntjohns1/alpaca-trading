@@ -11,4 +11,6 @@ server/node_modules
 server/.env
 server/.okta.env
 !src/data
+!server/routes/data
 .DS_Store
+__pycache__
